@@ -1,0 +1,32 @@
+postman format for main.py:
+
+{
+        "number_of_times_pregnant":"6",
+        "plasma_glucose_concentration":"148",
+        "diastolic_blood_pressure":"72",
+        "triceps_skinfold_thickness":"35",
+        "serum_insulin":"80",
+        "body_mass_index":"33.6",
+        "diabetes_pedigree_function":"0.627",
+        "age":"50"
+        
+}
+
+Note: The difference in format: 
+1) features wrapped under data and look the fields are all int and float
+postman format for main_alternate.py:
+
+{"data":
+       {
+        "number_of_times_pregnant":6,
+        "plasma_glucose_concentration":148,
+        "diastolic_blood_pressure":72,
+        "triceps_skinfold_thickness":35,
+        "serum_insulin":80,
+        "body_mass_index":33.6,
+        "diabetes_pedigree_function":0.627,
+        "age":50
+       }
+            
+    }
+

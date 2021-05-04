@@ -1,0 +1,18 @@
+XGboost:
+https://xgboost.readthedocs.io/en/latest/parameter.html
+https://xgboost.readthedocs.io/en/latest/python/index.html
+https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn
+
+
+Hyper parameter tuning XGBoost classifier:
+
+https://www.youtube.com/watch?v=9HomdnM12o4&pbjreload=101
+
+https://github.com/krishnaik06/Hyperparameter-Optimization/blob/master/Hyperparameter%20Optimization%20For%20Xgboost.ipynb
+
+XGBoost Regressor:
+https://www.datatechnotes.com/2019/06/regression-example-with-xgbregressor-in.html
+https://towardsdatascience.com/xgboost-python-example-42777d01001e
+
+ Hyper parameter tuning XGBoost Regressor:
+https://kevinvecmanis.io/machine%20learning/hyperparameter%20tuning/dataviz/python/2019/05/11/XGBoost-Tuning-Visual-Guide.html

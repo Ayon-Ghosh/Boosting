@@ -1,0 +1,14 @@
+Project name
+diabetes-pred-xgboost
+Project ID
+diabetes-pred-xgboost
+Project number
+109661469512
+
+https://diabetes-pred-xgboost.ue.r.appspot.com
+
+
+gcloud app deploy app.yaml --project diabetes-pred-xgboost
+
+
+https://diabetes-pred-xgboost.ue.r.appspot.com/predict
